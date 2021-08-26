@@ -5,6 +5,6 @@ Wet your hands with clean, running water (warm or cold), turn off the tap, and a
 This APP can remind you to wash hand,by setting time or by setting countdown timer
 
 If you have any suggestions or comments, please contact us by email: hblhzhz@163.com, we will reply to you as soon as possible.
-![Image text](https://github.com/hblhzhz/Hand-Washing-Reminder/blob/main/上架/4.png)
-![Image text](https://github.com/hblhzhz/Hand-Washing-Reminder/blob/main/上架/5.png)
-![Image text](https://github.com/hblhzhz/Hand-Washing-Reminder/blob/main/上架/6.png)
+![Image text](https://github.com/hblhzhz/Hand-Washing-Reminder/blob/main/上架/4.jpg)
+![Image text](https://github.com/hblhzhz/Hand-Washing-Reminder/blob/main/上架/5.jpg)
+![Image text](https://github.com/hblhzhz/Hand-Washing-Reminder/blob/main/上架/6.jpg)
